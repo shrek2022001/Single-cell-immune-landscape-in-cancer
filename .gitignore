@@ -1,0 +1,15 @@
+# Ignore datasets
+data/raw/
+data/processed/
+*.h5ad
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Microsoft Word temp files
+~$*
