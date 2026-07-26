@@ -8,5 +8,7 @@ Research qs:
 -------------------------------------------------------------------------------------------------
 
 Dataset used: Progressive Plasticity During Colorectal Cancer Metastasis – Epithelial, downloaded from CZ CELLxGENE Discover.
+Cells: 47107
+Genes: 25344
 
 
