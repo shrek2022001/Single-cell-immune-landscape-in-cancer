@@ -1,4 +1,4 @@
-# Single-cell-immune-landscape-in-cancer
+# How do epithelial cells change as colorectal cancer progresses from the primary tumor to metastatic lesions?
 Research qs: 
 1. How do epithelial cell populations differ between normal colon and colorectal cancer?
 2. Are there distinct epithelial cell states associated with metastasis?
